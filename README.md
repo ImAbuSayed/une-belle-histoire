@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-belle-histoire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Une Belle Histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-belle-histoire/) |
+| **Get License** | [Commercial Licensing for Une Belle Histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-belle-histoire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ba85d6cabebbc0fe7e6bc1f44482fa51d63617a10607fc4fb90f27bd4d5e207` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
