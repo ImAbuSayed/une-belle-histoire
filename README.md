@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-belle-histoire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Une Belle Histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-belle-histoire/) |
+| **Get License** | [License this song: Une Belle Histoire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-belle-histoire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum flotte encore dans l'air de la nuit
+> Je suis captivé par l'aura de minuit
+> On se frôle en silence, l'attraction est fatale
+> Viens avec moi dans la danse de la capitale
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
